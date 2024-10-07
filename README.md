@@ -1,4 +1,4 @@
-# Mbenrh
+# Hey,I'm mariem
 I’m a third-year Computer Science student. Follow our GitHub to stay updated with our projects and contributions!
 
 About Me: I have a passion for technology and programming, and over the past two years at university, I've explored various languages and frameworks. My focus for now is on mastering Python and TensorFlow, with a strong interest in machine learning and data science.
