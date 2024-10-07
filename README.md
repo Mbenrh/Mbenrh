@@ -11,6 +11,7 @@ I love being involved in university life, and I actively participate in several 
 * Google Club (discussing the latest tech trends)
 * MLact (dedicated to machine learning)
 * Rtts Robotics (getting hands-on with robotics)
+
 Recently, I completed a volunteer internship with AIESEC, which was an incredible experience that not only helped me grow my skills but also opened my eyes to different cultures and perspectives.
 
 -- My Dreams:
