@@ -1,7 +1,8 @@
 # Hey, I'm Mariem! 👋
 I’m currently a third-year Computer Science student, and I'm excited to share my journey with you! Feel free to follow our GitHub to stay updated with our projects and contributions.
 
--> About Me:
+-- About Me:
+
 I’ve always been passionate about technology and programming. Over the past two years at university, I’ve had the opportunity to dive into a variety of programming languages and frameworks. Right now, I’m focused on mastering Python and TensorFlow, with a keen interest in machine learning and data science.
 
 I love being involved in campus life, and I actively participate in several organizations and clubs, including:
@@ -12,7 +13,8 @@ I love being involved in campus life, and I actively participate in several orga
 * Rtts Robotics (getting hands-on with robotics)
 Recently, I completed a volunteer internship with AIESEC, which was an incredible experience that not only helped me grow my skills but also opened my eyes to different cultures and perspectives.
 
--> My Dreams:
+-- My Dreams:
+
 Continuous Improvement: I believe in lifelong learning and always look for ways to grow, both personally and professionally.
 Startup Aspirations: One of my dreams is to start my own tech company that focuses on creating innovative and practical applications to solve real-world problems.
 Cultural Exploration: I’m also passionate about traveling and experiencing new cultures, which I believe enriches our understanding of the world.
