@@ -16,9 +16,9 @@ Recently, I completed a volunteer internship with AIESEC, which was an incredibl
 
 -- My Dreams:
 
-Continuous Improvement: I believe in lifelong learning and always look for ways to grow, both personally and professionally.
-Startup Aspirations: One of my dreams is to start my own tech company that focuses on creating innovative and practical applications to solve real-world problems.
-Cultural Exploration: I’m also passionate about traveling and experiencing new cultures, which I believe enriches our understanding of the world.
++ Continuous Improvement: I believe in lifelong learning and always look for ways to grow, both personally and professionally.
++ Startup Aspirations: One of my dreams is to start my own tech company that focuses on creating innovative and practical applications to solve real-world problems.
++ Cultural Exploration: I’m also passionate about traveling and experiencing new cultures, which I believe enriches our understanding of the world.
 
 I would love to connect with like-minded individuals and collaborate on exciting projects!
 ## #30NitesOfCode:
