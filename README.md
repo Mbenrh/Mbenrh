@@ -7,10 +7,10 @@ I’ve always been passionate about technology and programming. Over the past tw
 
 I love being involved in university life, and I actively participate in several organizations and clubs, including:
 
-* Enactus (where we work on social entrepreneurship projects)
-* Google Club (discussing the latest tech trends)
-* MLact (dedicated to machine learning)
-* Rtts Robotics (getting hands-on with robotics)
+* Enactus: where we work on social entrepreneurship projects
+* Google Club: discussing the latest tech trends
+* MLact: dedicated to machine learning
+* Rtts Robotics: getting hands-on with robotics
 * CyberSicca: Learning about cybersecurity
 * Scout: Participating in community service and leadership activities
 
