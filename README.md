@@ -1,5 +1,6 @@
 # Hey, I'm Mariem! 👋
-I’m currently a third-year Computer Science student, and I'm excited to share my journey with you! Feel free to follow my GitHub to stay updated on my coding adventures.
+I’m currently a third-year Computer Science student, and I'm excited to share my journey with you! 
+Feel free to follow my GitHub to stay updated on my coding adventures.
 
 ## About Me:
 
