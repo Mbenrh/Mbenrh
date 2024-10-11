@@ -18,15 +18,14 @@ I love being involved in university life, and I actively participate in several 
 Recently, I completed a volunteer internship with AIESEC, which was an incredible experience that not only helped me grow my skills but also opened my eyes to different cultures and perspectives.
 
 ## My Dreams:
-
 + Continuous Improvement: I believe in lifelong learning and always look for ways to grow, both personally and professionally.
 + Startup Aspirations: One of my dreams is to start my own tech company that focuses on creating innovative and practical applications to solve real-world problems.
 + Cultural Exploration: I’m also passionate about traveling and experiencing new cultures, which I believe enriches our understanding of the world.
 
 I would love to connect with like-minded individuals and collaborate on exciting projects!
 ## Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=Mbenrh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mbenrh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://your-vercel-app.vercel.app/githubStats?username=Mbenrh" height="150" alt="stats graph" />
+<img src="https://your-vercel-app.vercel.app/githubStats?username=Mbenrh&toplangs=true" height="150" alt="languages graph" />
 
 ## #30NitesOfCode:
 [Check out my progress!](https://www.codedex.io/@mbenrhouma19955808/30-nites-of-code)  
