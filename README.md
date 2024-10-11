@@ -24,6 +24,29 @@ Recently, I completed a volunteer internship with AIESEC, which was an incredibl
 + Cultural Exploration: I’m also passionate about traveling and experiencing new cultures, which I believe enriches our understanding of the world.
 
 I would love to connect with like-minded individuals and collaborate on exciting projects!
+name: Generate Snake
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+  
+        with:
+          github_user_name: chinmayi-ujoshi
+          svg_out_path: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mbenrhouma19955808/30-nites-of-code)  
   ![@mbenrhouma19955808 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mbenrhouma19955808)
