@@ -24,6 +24,10 @@ Recently, I completed a volunteer internship with AIESEC, which was an incredibl
 + Cultural Exploration: I’m also passionate about traveling and experiencing new cultures, which I believe enriches our understanding of the world.
 
 I would love to connect with like-minded individuals and collaborate on exciting projects!
+## Stats 
+  <img src="https://github-readme-stats.vercel.app/api?username=mariemBenRh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariemBenRh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mbenrhouma19955808/30-nites-of-code)  
