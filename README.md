@@ -29,8 +29,6 @@ I would love to connect with like-minded individuals and collaborate on exciting
 <img src="https://my-github-stats.vercel.app/api/top-langs?username=Mbenrh&locale=en&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 
 
-</div>
-
 ## #30NitesOfCode:
 [Check out my progress!](https://www.codedex.io/@mbenrhouma19955808/30-nites-of-code)  
 ![@mbenrhouma19955808 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mbenrhouma19955808)
