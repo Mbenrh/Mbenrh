@@ -25,8 +25,9 @@ Recently, I completed a volunteer internship with AIESEC, which was an incredibl
 
 I would love to connect with like-minded individuals and collaborate on exciting projects!
 ## Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=Mbenrh&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false&token=YOUR_GITHUB_TOKEN" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mbenrh&locale=en&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2&token=YOUR_GITHUB_TOKEN" height="150" alt="languages graph"  />
+<img src="https://my-github-stats.vercel.app/api?username=Mbenrh&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://my-github-stats.vercel.app/api/top-langs?username=Mbenrh&locale=en&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+
 
 </div>
 
