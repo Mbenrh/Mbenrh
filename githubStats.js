@@ -17,8 +17,14 @@ module.exports = async (req, res) => {
             }
         });
 
-        if (!statsResponse.ok || !langResponse.ok) {
-            throw new Error('Failed to fetch data from GitHub');
+        if (!statsResponse.ok) {
+            console.error('Failed to fetch stats:', statsResponse.statusText);
+            return res.status(statsResponse.status).send(`Error fetching stats: ${statsResponse.statusText}`);
+        }
+        
+        if (!langResponse.ok) {
+            console.error('Failed to fetch language stats:', langResponse.statusText);
+            return res.status(langResponse.status).send(`Error fetching language stats: ${langResponse.statusText}`);
         }
 
         const stats = await statsResponse.text();
@@ -31,4 +37,3 @@ module.exports = async (req, res) => {
         res.status(500).send('Internal Server Error');
     }
 };
- 
