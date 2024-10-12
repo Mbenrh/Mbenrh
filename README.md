@@ -24,8 +24,10 @@ Recently, I completed a volunteer internship with AIESEC, which was an incredibl
 
 I would love to connect with like-minded individuals and collaborate on exciting projects!
 ## Stats 
-<img src="https://mbenrh-vp9h-diypq4r3a-mbenrhs-projects.vercel.app//githubStats?username=Mbenrh" height="150" alt="stats graph" />
-<img src="https://mbenrh-vp9h-diypq4r3a-mbenrhs-projects.vercel.app//githubStats?username=Mbenrh&toplangs=true" height="150" alt="languages graph" />
+<img src="https://mbenrh-1-mbenrhs-projects.vercel.app
+/githubStats?username=Mbenrh" height="150" alt="stats graph" />
+<img src="https://mbenrh-1-mbenrhs-projects.vercel.app
+/githubStats?username=Mbenrh&toplangs=true" height="150" alt="languages graph" />
 
 
 ## #30NitesOfCode:
