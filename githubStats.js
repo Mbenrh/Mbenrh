@@ -5,13 +5,13 @@ module.exports = async (req, res) => {
     const username = req.query.username || 'Mbenrh';
     
     try {
-        const statsResponse = await fetch(`https://github-readme-stats.vercel.app/api?username=${username}&include_all_commits=true&count_private=true`, {
+        const statsResponse = await fetch(`https://github-readme-stats.vercel.app/githubStats?username=${username}&include_all_commits=true&count_private=true`, {
             headers: {
                 Authorization: `token ${token}`
             }
         });
         
-        const langResponse = await fetch(`https://github-readme-stats.vercel.app/api/top-langs?username=${username}&include_all_commits=true&count_private=true`, {
+        const langResponse = await fetch(`https://github-readme-stats.vercel.app/githubStats/top-langs?username=${username}&include_all_commits=true&count_private=true`, {
             headers: {
                 Authorization: `token ${token}`
             }
