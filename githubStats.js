@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 
 module.exports = async (req, res) => {
-    const token = process.env.path_1; / 
+    const token = process.env.GITHUB_TOKEN; / 
     const username = req.query.username || 'Mbenrh';
     
     const statsResponse = await fetch(`https://github-readme-stats.vercel.app/api?username=${username}&include_all_commits=true&count_private=true`, {
