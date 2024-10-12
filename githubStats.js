@@ -4,19 +4,26 @@ module.exports = async (req, res) => {
     const token = process.env.GITHUB_TOKEN;
     const username = req.query.username || 'Mbenrh';
     
+    // Check if token is set
+    if (!token) {
+        return res.status(500).send('GitHub token is not set.');
+    }
+
     try {
-        const statsResponse = await fetch(`https://github-readme-stats.vercel.app/githubStats?username=${username}&include_all_commits=true&count_private=true`, {
+        // Correct fetch URLs
+        const statsResponse = await fetch(`https://github-readme-stats.vercel.app/api?username=${username}&include_all_commits=true&count_private=true`, {
             headers: {
                 Authorization: `token ${token}`
             }
         });
         
-        const langResponse = await fetch(`https://github-readme-stats.vercel.app/githubStats/top-langs?username=${username}&include_all_commits=true&count_private=true`, {
+        const langResponse = await fetch(`https://github-readme-stats.vercel.app/api/top-langs?username=${username}&include_all_commits=true&count_private=true`, {
             headers: {
                 Authorization: `token ${token}`
             }
         });
 
+        // Check responses
         if (!statsResponse.ok) {
             console.error('Failed to fetch stats:', statsResponse.statusText);
             return res.status(statsResponse.status).send(`Error fetching stats: ${statsResponse.statusText}`);
