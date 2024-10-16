@@ -4,7 +4,7 @@ Feel free to follow my GitHub to stay updated on my coding adventures.
 
 ## About Me:
 
-I’ve always been passionate about technology and programming. Over the past two years at university, I’ve had the opportunity to dive into a variety of programming languages and frameworks. Right now, I’m focused on mastering Python and TensorFlow, with a keen interest in machine learning and data science.
+I’ve always been passionate about technology and programming. Over the past two years at university, I’ve had the opportunity to dive into a variety of programming languages and frameworks. Right now, I’m focused on mastering Python and Django, with a keen interest in machine learning and data science.
 
 I love being involved in university life, and I actively participate in several organizations and clubs, including:
 
