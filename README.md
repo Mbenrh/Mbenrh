@@ -22,13 +22,5 @@ Recently, I completed a volunteer internship with AIESEC, which was an incredibl
 + Startup Aspirations: One of my dreams is to start my own tech company that focuses on creating innovative and practical applications to solve real-world problems.
 + Cultural Exploration: I’m also passionate about traveling and experiencing new cultures, which I believe enriches our understanding of the world.
 
-I would love to connect with like-minded individuals and collaborate on exciting projects!
-## Stats 
-<img src="https://mbenrh-1-bkd4b9py1-mbenrhs-projects.vercel.app/githubStats?username=Mbenrh" height="150" alt="stats graph" />
-<img src="https://mbenrh-1-bkd4b9py1-mbenrhs-projects.vercel.app/githubStats?username=Mbenrh&toplangs=true" height="150" alt="languages graph" />
-
-
-## #30NitesOfCode:
-[Check out my progress!](https://www.codedex.io/@mbenrhouma19955808/30-nites-of-code)  
-![@mbenrhouma19955808 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mbenrhouma19955808)
+I would love to connect with like-minded individuals and collaborate on exciting projects! 
 
